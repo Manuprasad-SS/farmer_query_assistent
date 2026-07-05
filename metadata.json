@@ -1,0 +1,8 @@
+{
+  "name": "Farmer Query Assistant",
+  "description": "A multilingual agricultural assistant prototype that uses Gemini for conversation and vision analysis, and TensorFlow.js for local image classification. Users can ask questions via text or voice, upload images of plants for analysis, and receive expert advice in multiple languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
